@@ -11,7 +11,7 @@ var map = L.map('map', {
   ];
 
 var svgUrlLine = 'Line.svg';
-var svgUrlTexts = 'https://drive.google.com/uc?export=download&id=1Fkxeqs-jA8diThH8t4Epj7Qa0bHmlQh7';
+var svgUrlTexts = 'station_text';
 var svgUrlJapanMap = 'https://drive.google.com/uc?export=download&id=1pLnUtVkWge6Xhb4WQFnJL9XjOWm2XuRf';
 var svgUrlMap50 = 'https://drive.google.com/uc?export=download&id=1pqrAOT6Z65UJmR1jM2paB-zeZAOeP84S';
 var svgUrlLineInfo = 'https://drive.google.com/uc?export=download&id=17wpDv6KS-yrK1PwIjVOw3-3Rotu7Ez2B';
