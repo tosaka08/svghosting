@@ -10,7 +10,7 @@ var map = L.map('map', {
     [40.773941, -74.12544]
   ];
 
-var svgUrlLine = 'https://drive.google.com/uc?export=download&id=1Zw-nV6_sa8irCgiGfhkwXpGphFqmo0ls';
+var svgUrlLine = 'Line.svg';
 var svgUrlTexts = 'https://drive.google.com/uc?export=download&id=1Fkxeqs-jA8diThH8t4Epj7Qa0bHmlQh7';
 var svgUrlJapanMap = 'https://drive.google.com/uc?export=download&id=1pLnUtVkWge6Xhb4WQFnJL9XjOWm2XuRf';
 var svgUrlMap50 = 'https://drive.google.com/uc?export=download&id=1pqrAOT6Z65UJmR1jM2paB-zeZAOeP84S';
