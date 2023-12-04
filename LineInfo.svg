@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-91267.6 -137395.6 140808 188352.2" width="20000px" height="20000px" xmlns="http://www.w3.org/2000/svg">
+  <g style="">
+    <title>Line Description</title>
+    <g transform="matrix(1, 0, 0, 1, -236.042267, 15.736151)">
+      <title>JRE Tsurumi</title>
+      <rect x="2553.019" y="8850.893" width="335" height="100" style="stroke: rgb(99, 99, 99); fill: rgb(255, 229, 0); stroke-width: 6px;" rx="7.378" ry="7.378"/>
+      <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 10px; white-space: pre;" transform="matrix(1, 0, 0, 1, 69.15905, -31.083261)"><tspan x="2586.3" y="8907.64" style="font-size: 15px;">JR東日本旅客鉄道</tspan><tspan x="2586.3" dy="1em">​</tspan><tspan>JR-East Railway Company</tspan></text>
+      <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 34.4px; white-space: pre;" x="-22.051" y="15.063" transform="matrix(1, 0, 0, 1, 92.440056, -30.11842)"><tspan x="2563.019" y="8950.983" style="font-size: 35px; word-spacing: 0px;">鶴見線</tspan><tspan style="font-size: 20px; word-spacing: 0px;"> Tsurumi Line<tspan x="2563.01904296875" dy="1em">​</tspan></tspan></text>
+      <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13px; white-space: pre;" x="2655.459" y="8938.543">(鶴見～海芝浦・大川・扇町)</text>
+      <g transform="matrix(1.914578, 0, 0, 1.905403, 3718.111328, 8167.224609)">
+        <title>JR JI</title>
+        <rect x="-598.906" y="366.771" width="35.517" height="35.688" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-width: 10.4713px;" rx="3.882" ry="3.882"/>
+        <rect x="-598.906" y="366.771" width="35.517" height="35.688" style="fill: rgb(255, 255, 255); stroke: rgb(255, 229, 0); stroke-width: 4.58284px;" rx="3.882" ry="3.882"/>
+        <path d="M -583.224 386.759 Q -583.224 389.897 -584.774 391.638 Q -586.324 393.379 -588.908 393.379 Q -590.114 393.379 -590.889 393.096 L -590.889 390.34 Q -590.188 390.82 -589.081 390.82 Q -586.152 390.82 -586.152 386.292 L -586.152 375.439 L -583.224 375.439 Z M -573.93 393.084 L -576.945 393.084 L -576.945 375.439 L -573.93 375.439 Z" style="line-height: 31.1633px; stroke: rgb(0, 0, 0); white-space: pre;"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -121.28788, -785.388611)">
+      <title>Keikyu Daishi</title>
+      <rect x="2553.019" y="8850.893" width="323" height="100" style="stroke: rgb(99, 99, 99); stroke-width: 6px; fill: rgb(0, 150, 224);" rx="7.378" ry="7.378"/>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 10px; white-space: pre;" transform="matrix(1, 0, 0, 1, 69.15905, -31.083261)"><tspan style="font-size: 15px;" x="2586.3" y="8907.64">京浜急行電鉄</tspan><tspan x="2586.3" dy="1em">​</tspan><tspan>Keikyu Corporation</tspan></text>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 34.4px; white-space: pre;" transform="matrix(1, 0, 0, 1, 92.440056, -30.11842)"><tspan style="font-size: 35px;" x="2563.02" y="8950.98">大師線</tspan><tspan style="font-size: 20px;"> Daishi Line</tspan><tspan x="2563.02001953125" dy="1em">​</tspan></text>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 13px; white-space: pre;" x="2655.46" y="8938.54">(京急川崎～小島新田)</text>
+      <g transform="matrix(2.193548, 0, 0, 2.193541, 1346.55896, 8346.625977)">
+        <title>Ke Ke</title>
+        <circle style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-width: 9.11765px;" transform="matrix(1, 0, 0, 1.000003, -391.133667, -190.119293)" cx="965.5" cy="442.5" r="15.5"/>
+        <circle style="stroke-width: 3.99999px; stroke: rgb(0, 150, 224); fill: rgb(255, 255, 255);" transform="matrix(1, 0, 0, 1.000003, -391.133667, -190.119232)" cx="965.5" cy="442.5" r="15.5"/>
+        <path d="M 574.18 258.826 L 571.253 258.826 L 566.539 253.037 C 566.363 252.82 566.256 252.673 566.218 252.597 L 566.18 252.597 L 566.18 258.826 L 563.932 258.826 L 563.932 246.174 L 566.18 246.174 L 566.18 252.12 L 566.218 252.12 C 566.293 251.991 566.4 251.847 566.539 251.688 L 571.082 246.174 L 573.775 246.174 L 568.457 252.244 L 574.18 258.826 Z M 585.997 258.826 L 583.068 258.826 L 578.355 253.037 C 578.179 252.82 578.072 252.673 578.034 252.597 L 577.997 252.597 L 577.997 258.826 L 575.748 258.826 L 575.748 246.174 L 577.997 246.174 L 577.997 252.12 L 578.034 252.12 C 578.11 251.991 578.217 251.847 578.355 251.688 L 582.899 246.174 L 585.591 246.174 L 580.273 252.244 L 585.997 258.826 Z" style="white-space: pre;"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -12142.548828, 6239.353516)">
+      <title>Odakyu HakoneTozanDensha</title>
+      <rect x="2553.019" y="8850.893" width="456.267" height="100" style="stroke: rgb(99, 99, 99); stroke-width: 6px; fill: rgb(223, 89, 29);" rx="7.378" ry="7.378"/>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 10px; white-space: pre;" transform="matrix(1, 0, 0, 1, 69.15905, -31.083261)"><tspan x="2586.3" y="8907.64" style="font-size: 15px;">箱根登山鉄道</tspan><tspan x="2586.3" dy="1em">​</tspan><tspan>Hakone Tozan Railway</tspan></text>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 35px; white-space: pre;" transform="matrix(1, 0, 0, 1, 92.440056, -30.11842)"><tspan x="2563.02" y="8950.98">箱根登山電車</tspan><tspan x="2563.02" dy="1em">​</tspan></text>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 13px; white-space: pre;" x="2655.46" y="8938.54">(小田原～強羅)</text>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" transform="matrix(1, 0, 0, 1, 88.830467, -93.937759)"><tspan x="2776.64" y="9001.9"> Hakone Tozan</tspan><tspan x="2776.64" dy="1em">​</tspan><tspan> Railway</tspan></text>
+      <g transform="matrix(1.914578, 0, 0, 1.905404, 3718.111328, 8167.365234)">
+        <title>Od OT</title>
+        <rect x="-598.906" y="366.697" width="35.517" height="35.688" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-width: 10.4713px;" rx="15.579" ry="15.579"/>
+        <rect x="-598.906" y="366.697" width="35.517" height="35.688" style="stroke-width: 4.87488px; fill: rgb(255, 255, 255); stroke: rgb(223, 89, 29);" rx="15.579" ry="15.579"/>
+        <path d="M -593.196 384.542 C -593.196 383.287 -593.008 382.235 -592.633 381.384 C -592.353 380.757 -591.97 380.194 -591.486 379.696 C -591.002 379.197 -590.471 378.828 -589.895 378.587 C -589.127 378.262 -588.243 378.1 -587.241 378.1 C -585.427 378.1 -583.975 378.663 -582.886 379.788 C -581.797 380.913 -581.253 382.478 -581.253 384.483 C -581.253 386.47 -581.793 388.025 -582.874 389.148 C -583.954 390.271 -585.399 390.832 -587.207 390.832 C -589.038 390.832 -590.494 390.274 -591.575 389.157 C -592.655 388.04 -593.196 386.501 -593.196 384.542 Z M -590.634 384.458 C -590.634 385.852 -590.312 386.909 -589.668 387.628 C -589.024 388.347 -588.206 388.707 -587.216 388.707 C -586.224 388.707 -585.411 388.35 -584.776 387.636 C -584.14 386.923 -583.823 385.852 -583.823 384.424 C -583.823 383.013 -584.132 381.961 -584.751 381.266 C -585.369 380.572 -586.191 380.225 -587.216 380.225 C -588.24 380.225 -589.066 380.576 -589.693 381.279 C -590.32 381.982 -590.634 383.041 -590.634 384.458 Z M -579.307 390.622 L -579.307 378.31 L -576.821 378.31 L -576.821 383.156 L -571.95 383.156 L -571.95 378.31 L -569.464 378.31 L -569.464 390.622 L -571.95 390.622 L -571.95 385.239 L -576.821 385.239 L -576.821 390.622 L -579.307 390.622 Z" style="fill: rgb(70, 41, 22); white-space: pre; stroke-width: 0.286427px; stroke: rgb(70, 41, 22);"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -655.120056, -7803.169434)">
+      <title>JRE KeihinTohoku</title>
+      <rect x="2553.019" y="8850.893" width="424.252" height="100" style="stroke: rgb(99, 99, 99); stroke-width: 6px; fill: rgb(0, 167, 227);" rx="7.378" ry="7.378"/>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 10px; white-space: pre;" transform="matrix(1, 0, 0, 1, 69.15905, -31.083261)"><tspan x="2586.3" y="8907.64" style="font-size: 15px;">JR東日本旅客鉄道</tspan><tspan x="2586.300048828125" dy="1em">​</tspan><tspan>JR-East Railway Company</tspan></text>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 35px; white-space: pre;" transform="matrix(1, 0, 0, 1, 92.440056, -30.11842)"><tspan x="2563.02" y="8950.98">京浜東北線</tspan><tspan x="2563.02001953125" dy="1em">​</tspan></text>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 13px; white-space: pre;" x="2655.46" y="8938.54">(大宮～横浜)</text>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" transform="matrix(1, 0, 0, 1, 53.785515, -95.072517)"><tspan x="2776.64" y="9001.9"> Keihin-Tōhoku</tspan><tspan x="2776.639892578125" dy="1em">​</tspan><tspan> Line</tspan></text>
+      <g transform="matrix(1.914578, 0, 0, 1.905404, 3718.111328, 8167.365234)">
+        <title>JR JK</title>
+        <rect x="-598.906" y="366.697" width="35.517" height="35.688" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-width: 10.4713px;" rx="3.882" ry="3.882"/>
+        <rect x="-598.906" y="366.697" width="35.517" height="35.688" style="fill: rgb(255, 255, 255); stroke: rgb(0, 167, 227); stroke-width: 4.58284px;" rx="3.882" ry="3.882"/>
+        <path d="M -585.896 387.697 Q -585.896 390.835 -587.447 392.576 Q -588.997 394.317 -591.581 394.317 Q -592.787 394.317 -593.562 394.034 L -593.562 391.278 Q -592.861 391.758 -591.754 391.758 Q -588.825 391.758 -588.825 387.23 L -588.825 376.377 L -585.896 376.377 Z M -567.357 394.022 L -571.171 394.022 L -577.312 385.95 Q -577.656 385.495 -577.73 385.335 L -577.779 385.335 L -577.779 394.022 L -580.708 394.022 L -580.708 376.377 L -577.779 376.377 L -577.779 384.67 L -577.73 384.67 Q -577.582 384.4 -577.312 384.068 L -571.393 376.377 L -567.886 376.377 L -574.814 384.843 Z" style="stroke: rgb(0, 0, 0); stroke-width: 0.696411px; white-space: pre;"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -8632.356445, -5585.381836)">
+      <title>JRE Itsukaichi</title>
+      <rect x="2553.019" y="8850.893" width="342.212" height="100" style="stroke: rgb(99, 99, 99); stroke-width: 6px; fill: rgb(235, 92, 1);" rx="7.378" ry="7.378"/>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 10px; white-space: pre;" transform="matrix(1, 0, 0, 1, 69.15905, -31.083261)"><tspan x="2586.3" y="8907.64" style="font-size: 15px;">JR東日本旅客鉄道</tspan><tspan x="2586.300048828125" dy="1em">​</tspan><tspan>JR-East Railway Company</tspan></text>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 35px; white-space: pre;" transform="matrix(1, 0, 0, 1, 92.440056, -30.11842)"><tspan x="2563.02" y="8950.98">五日市線</tspan><tspan x="2563.02001953125" dy="1em">​</tspan></text>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 13px; white-space: pre;" x="2655.46" y="8938.54">(拝島～武蔵五日市)</text>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" transform="matrix(1, 0, 0, 1, 18.967369, -95.102791)"><tspan x="2776.64" y="9001.9"> Itsukaichi</tspan><tspan x="2776.639892578125" dy="1em">​</tspan><tspan> Line</tspan></text>
+      <g transform="matrix(1.914578, 0, 0, 1.905403, 3718.09082, 8167.404297)">
+        <title>JR JC</title>
+        <rect x="-598.906" y="366.697" width="35.517" height="35.688" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-width: 10.4713px;" rx="3.882" ry="3.882"/>
+        <rect x="-598.906" y="366.697" width="35.517" height="35.688" style="fill: rgb(255, 255, 255); stroke: rgb(235, 92, 1); stroke-width: 4.58284px;" rx="3.882" ry="3.882"/>
+        <path d="M -585.896 387.697 Q -585.896 390.835 -587.447 392.576 Q -588.997 394.317 -591.581 394.317 Q -592.787 394.317 -593.562 394.034 L -593.562 391.278 Q -592.861 391.758 -591.754 391.758 Q -588.825 391.758 -588.825 387.23 L -588.825 376.377 L -585.896 376.377 Z M -568.403 393.284 Q -570.396 394.317 -573.362 394.317 Q -577.201 394.317 -579.514 391.893 Q -581.827 389.469 -581.827 385.532 Q -581.827 381.299 -579.225 378.69 Q -576.622 376.082 -572.648 376.082 Q -570.089 376.082 -568.403 376.808 L -568.403 379.712 Q -570.187 378.653 -572.34 378.653 Q -575.207 378.653 -576.985 380.487 Q -578.763 382.32 -578.763 385.384 Q -578.763 388.3 -577.102 390.029 Q -575.441 391.758 -572.734 391.758 Q -570.236 391.758 -568.403 390.577 Z" style="stroke: rgb(0, 0, 0); stroke-width: 0.696411px; white-space: pre;"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -944.697449, -3997.658936)">
+      <title>JRE Yamanote</title>
+      <rect x="2553.019" y="8850.893" width="309.749" height="100" style="stroke: rgb(99, 99, 99); stroke-width: 6px; fill: rgb(133, 192, 35);" rx="7.378" ry="7.378"/>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 10px; white-space: pre;" transform="matrix(1, 0, 0, 1, 69.15905, -31.083261)"><tspan x="2586.3" y="8907.64" style="font-size: 15px;">JR東日本旅客鉄道</tspan><tspan x="2586.300048828125" dy="1em">​</tspan><tspan>JR-East Railway Company</tspan></text>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 35px; white-space: pre;" transform="matrix(1, 0, 0, 1, 92.440056, -30.11842)"><tspan x="2563.02" y="8950.98">山手線</tspan><tspan x="2563.02001953125" dy="1em">​</tspan></text>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 13px; white-space: pre;" x="2655.459" y="8940.839">(環状線 / 東京 ~ 新宿 ~ 東京)</text>
+      <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" transform="matrix(1, 0, 0, 1, -16.196693, -94.534439)"><tspan x="2776.64" y="9001.9"> Yamanote</tspan><tspan x="2776.639892578125" dy="1em">​</tspan><tspan> Line</tspan></text>
+      <g transform="matrix(1.914578, 0, 0, 1.905403, 3718.088623, 8167.376953)">
+        <title>JR Ya</title>
+        <rect x="-598.906" y="366.697" width="35.517" height="35.688" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-width: 10.4713px;" rx="3.882" ry="3.882"/>
+        <rect x="-598.906" y="366.697" width="35.517" height="35.688" style="fill: rgb(255, 255, 255); stroke: rgb(133, 192, 35); stroke-width: 4.58284px;" rx="3.882" ry="3.882"/>
+        <path d="M -585.896 387.697 Q -585.896 390.835 -587.447 392.576 Q -588.997 394.317 -591.581 394.317 Q -592.787 394.317 -593.562 394.034 L -593.562 391.278 Q -592.861 391.758 -591.754 391.758 Q -588.825 391.758 -588.825 387.23 L -588.825 376.377 L -585.896 376.377 Z M -568.415 376.377 L -574.198 387.611 L -574.198 394.022 L -577.127 394.022 L -577.127 387.673 L -582.763 376.377 L -579.428 376.377 L -575.958 383.944 Q -575.896 384.08 -575.589 384.966 L -575.552 384.966 Q -575.441 384.572 -575.146 383.944 L -571.516 376.377 Z" style="stroke: rgb(0, 0, 0); stroke-width: 0.696411px; white-space: pre;"/>
+      </g>
+    </g>
+  </g>
+</svg>
